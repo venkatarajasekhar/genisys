@@ -3,6 +3,15 @@
 
 #include <Arduino.h>
 
+class  FPtrExceptions{
+
+
+
+
+
+
+}
+
 class Genisys {
 
   public:
