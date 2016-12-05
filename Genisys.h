@@ -3,6 +3,13 @@
 
 #include <Arduino.h>
 
+class FPtrExceptions {
+public:
+  void memberFn();
+  static void staticMemberFn();  // A static member function can usually handle it
+  // ...
+};
+
 class Genisys {
 
   public:
